@@ -1,0 +1,2 @@
+# Stock-Jump-in-Small-Cap-Stocks-an-insights-into-it-
+The stock jump in amll cap stocks is really a blank space in quant researching and many trader and strategists view the small cap stock trading has highly risky because jumps just happen randomly due to the fact that those stocks have really low valumes and any trade related to it will cause a high percentage change in stock price(which is jump)
