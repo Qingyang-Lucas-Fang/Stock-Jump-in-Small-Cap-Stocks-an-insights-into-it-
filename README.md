@@ -10,7 +10,9 @@ We will use stats tool to study the time interval between jumps and past jump si
 # Acknwledgement
 This content is devoted by two parties: Simple Quantitative Trading Strategies:
 <img width="640" height="320" alt="logo2" src="https://github.com/user-attachments/assets/7483fa50-7f0d-4fea-b86f-1c92839a8d6d" />
+
 And General Math Review led by Qingyang Fang:
+
 <img width="439" height="141" alt="截屏2025-09-10 上午8 31 50" src="https://github.com/user-attachments/assets/0ce25452-d0bf-402a-8506-5353cc61a922" />
 
 
