@@ -9,9 +9,10 @@ We will use stats tool to study the time interval between jumps and past jump si
 
 # Acknwledgement
 This content is devoted by two parties: Simple Quantitative Trading Strategies:
-<img width="1280" height="640" alt="logo2" src="https://github.com/user-attachments/assets/7483fa50-7f0d-4fea-b86f-1c92839a8d6d" />
+<img width="640" height="320" alt="logo2" src="https://github.com/user-attachments/assets/7483fa50-7f0d-4fea-b86f-1c92839a8d6d" />
 And General Math Review led by Qingyang Fang:
-<img width="5000" height="5000" alt="GMR" src="https://github.com/user-attachments/assets/a51a7ac0-f64c-4613-a3f9-94a51e22c803" />
+<img width="439" height="141" alt="截屏2025-09-10 上午8 31 50" src="https://github.com/user-attachments/assets/0ce25452-d0bf-402a-8506-5353cc61a922" />
+
 
 # Methodology
 ## Small Cap Stock's Jump Detection and Distribution Stats
